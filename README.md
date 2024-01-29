@@ -1,3 +1,4 @@
+![image](https://github.com/creanero/star_guide/assets/42740563/dd9268d7-c016-45ef-9496-8568c7f7a01c)
 # Star Guide
 Star Guide is an open-source resource for exoplanet observers.
 
